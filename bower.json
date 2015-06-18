@@ -33,5 +33,6 @@
   },
   "devDependencies": {
     "json2": "*"
-  }
+  },
+  "ignore" : []
 }
